@@ -3,7 +3,4 @@ Indian Language Web Index project is to quantify the availability, discoverabili
 
 This folder contains MY WORK on:
 
-Search benchmark datasets
-Citizen intent mappings
-Translation workflow
-SERP testing work
+Search benchmark datasets,Citizen intent mappings,Translation workflow,SERP testing work,Issue log
